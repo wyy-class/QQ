@@ -29,13 +29,22 @@
 1.  文件下载功能
 2.  一对一聊天
 
-#### 参与贡献
 
-1.  软件18-4班 文言言
-2.  软件18-4班 朱德帅
-3.  软件18-4班 郁志朋
-4.  软件18-4班 张柏林
-5.  软件18-4班 闫振凯
-6.  软件18-4班 刘庆龙
-7.  软件18-3班 焦宁宁
-8.  软件18-3班 吕晶晶
+#### 运行效果图
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1118/191618_5dc11425_7436957.png "login.PNG")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1118/191705_b10c9eba_7436957.png "register.PNG")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1118/191718_359b36e1_7436957.png "find.PNG")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1118/191945_0c330a99_7436957.png "qq2.PNG")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1118/191956_29189e57_7436957.png "face.PNG")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1118/192009_d58ffbe8_7436957.png "file.PNG")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1118/192017_d2132702_7436957.png "qq_server2.PNG")
+#### 人员分工 
+
+1.  软件18-4班 文言言 ：数据库设计，项目整合
+2.  软件18-4班 朱德帅 ：文件上传
+3.  软件18-4班 郁志朋 ：发送表情
+4.  软件18-4班 张柏林 ：验证登录
+5.  软件18-4班 闫振凯 ：注册
+6.  软件18-4班 刘庆龙 ：服务器功能整合
+7.  软件18-3班 焦宁宁 ：页面设计，找回密码
+8.  软件18-3班 吕晶晶 ：找回密码
