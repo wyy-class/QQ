@@ -5,7 +5,7 @@
 
 #### 软件架构
 
-![输入图片说明](https://images.gitee.com/uploads/images/2020/1118/144131_ebfe1ec6_7436957.jpeg "QQ图片20201118144059.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1118/144920_92ce8fa1_7436957.jpeg "QQ图片20201118144059.jpg")
 
 
 #### 使用说明
